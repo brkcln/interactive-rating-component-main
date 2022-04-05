@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/interactiveratingcomponentmain-S1eX_CKQ5)
-- Live Site URL: [Add live site URL here](https://brkcln.github.io/interactive-rating-component-main/)
+- Solution URL: [https://www.frontendmentor.io/solutions/interactiveratingcomponentmain-S1eX_CKQ5]
+- Live Site URL: [https://brkcln.github.io/interactive-rating-component-main/]
 
 ## My process
 
